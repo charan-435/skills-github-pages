@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: CharanId!
 ---
+Hello I'm Charan
